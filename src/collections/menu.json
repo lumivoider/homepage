@@ -1,18 +1,22 @@
 [
 	{
-		"name": "Home",
+		"name": "首页",
 		"url": "/"
 	},
 	{
-		"name": "Posts",
+		"name": "博客",
 		"url": "/posts"
 	},
 	{
-		"name": "Projects",
+		"name": "项目",
 		"url": "/projects"
 	},
+  {
+    "name": "文档",
+    "url": "https://docs.yimn.me"
+  },
 	{
-		"name": "About",
+		"name": "关于我",
 		"url": "/about"
 	}
 ]
